@@ -16,7 +16,8 @@
 1. Modify the `values.yaml` file to customize the Argo CD installation.
 2. Open the `values.yaml` file in a text editor.
 3. Update the desired configuration options, such as ingress settings, storage options, and authentication methods.
-4. Save the `values.yaml` file.
+4. Save the `values.yaml` file. 
+5. Here is a short video showing the auto sync [ArgoCD auto sync] (https://youtu.be/nBbKebTI-oI)
 
 ## Accessing Argo CD Dashboard
 
@@ -28,4 +29,5 @@
 ## Demonstration
 Here is a quick demonstration of an MVP app on Argo CD tool
 [Watch the demonstration](https://youtu.be/Elln7ZN0Y2g)
+[Watch uploading random image] (https://youtu.be/XEqWO9nWPzo)
 
